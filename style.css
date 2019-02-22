@@ -1,0 +1,434 @@
+body,html .home{
+    background-color: #f2f2c2;
+}
+.sanya h1 {
+    color:white;
+    text-align: center;
+    margin-top:90px ;
+
+}
+.sanya  h3{
+    color:white;
+    text-align: center;
+    
+}
+.sanya  h6{
+    color:white;
+    
+    
+}
+.sanya h6:hover{
+    font-weight: bold;
+}
+.sanya{
+    background: #35424a;
+    margin-left: 30%;
+    margin-right: 28%;
+    width:40%;
+    
+}
+#register{
+    background: #35424a;
+    margin-left: 30%;
+    margin-right: 28%;
+    width:40%;
+    margin-top: 50px;
+    
+}
+form{
+    margin-left: 35%;
+    margin-top: 50px;
+    
+}
+
+.btn{
+    border:2px solid #fff;
+    padding: 5px 20px;
+    color: #fff;
+    text-decoration: none;
+    transition: 0.6s ease;
+    border-radius: 15px;
+}
+.btn:hover{
+    background-color: #fff;
+    color: #000;
+}
+#register h1{
+    text-align: center;
+    color:white;
+    margin-top: 30px;
+}
+
+body{
+    font:
+    15px/1.5 Arial, Helvetica, Sans-serif;
+    padding:0;
+    margin:0;
+    background-color:maroon;
+}
+.container{
+    width:80%;
+    margin: auto;
+    overflow:hidden;
+}
+header{
+    background-color:red;
+    color:white;
+    padding-top: 30px;
+    min-height:70px;
+    border-bottom: darkred 3px solid;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+header ul{
+    margin: 0;
+    padding: 0;
+}
+header li{
+    display:inline;
+    padding: 0 20px 0 20px;
+    font-family: Segou UI Historic;
+    font-size: 20px;
+    
+}
+header .highlight, header .current a{
+    color:blueviolet;
+    font-weight: bold;}
+ul{
+    padding:0;
+    margin: 0;
+}
+header #branding{
+    float:left;
+    margin-left: 0%;
+}
+header nav{
+    float:right;
+    margin-top: 10px;
+}
+header .highlight, header .current a{
+    color:white;
+    font-weight: bolder;
+}
+header a:hover{
+    font-weight: bold;
+    
+}
+ul li:nth-child(5) a {
+    color:white;
+    border: 2px solid white;
+    padding: 10px 7px;
+    border-radius: 0 20px;
+
+}
+ul li:nth-child(6) a {
+    color:white;
+    border: 2px solid white;
+    padding: 10px 20px;
+    border-radius: 0 20px;
+
+}
+#viva{
+    min-height: 300px; 
+background: url('img/7.jpg') no-repeat 0 -400px;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color:white; 
+}
+#viva h1{
+    margin-top: 100px;
+    font-size: 65px;
+    margin-bottom: 10px;
+    font-family: Algerian;
+
+}
+#viva p{
+    padding:15px; 
+     color:white;
+     font-family: Bell MT;
+     font-size: 30px;
+}
+
+/*showcase*/
+#showcase{
+    min-height: 600px; 
+background: url('img/10.jpg') no-repeat 0 -400px;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color:white;
+
+
+}
+#sent{
+    min-height: 400px; 
+background: url('img/16.jpg') no-repeat 0 -400px;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color:white;
+
+}
+#sent h1{
+    margin-top: 100px;
+    font-size: 65px;
+    margin-bottom: 10px;
+    font-family: Algerian;
+
+}
+#sent p{
+    padding:15px; 
+    color:white;
+    font-family: Bell MT;
+    font-size: 30px;
+}
+#nolly{
+    min-height: 400px; 
+background: url('img/8.jpg') no-repeat 0 -400px;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    color:white;
+
+}
+#nolly h1{
+    margin-top: 100px;
+    font-size: 65px;
+    margin-bottom: 10px;
+    font-family: Algerian;
+
+}
+#nolly p{
+    padding:15px; 
+    color:white;
+    font-family: Bell MT;
+    font-size: 30px;
+}
+#showcase h1{
+    margin-top: 100px;
+    font-size: 65px;
+    margin-bottom: 10px;
+    font-family: Algerian;
+
+}
+#showcase p{
+     padding:15px; 
+     color:white;
+     font-family: Bell MT;
+     font-size: 30px;
+}
+#order{
+    padding:15px;
+    color:#ffffff;
+    background: red;
+
+}
+#order h1{
+    float: left;
+}
+ #order form{
+     float: right;
+     margin-top: 15px;
+ } 
+ #order input[type="order"]{
+     padding:4px;
+     height:25px;
+     width:250px;
+ }
+ .button_1{
+       height: 38px;
+       background-color: brown;
+       border: 0;
+       padding-left: 20px;
+       padding-right: 20px;
+       color:#ffffff;
+ }
+  .dark{
+      padding:15px;
+      background: #35424a;
+      color:#ffffff;
+      margin-top: 10px;
+      margin-bottom: 10px;
+  }
+  
+       
+  }
+ /*boxes*/ 
+ #boxes{
+      margin-top: 20px;
+    }
+      #boxes h3{
+      text-align: center;
+     font-weight: bold; 
+     color:red;
+      font-family:bell mt;
+      font-size: 140%; 
+  
+     
+ }
+ 
+ #boxes .box{
+       float:left;
+       text-align: center;
+       width:30%;
+       padding: 10px;
+       font-family: bell mt;
+       
+       
+ }
+ /*sidebar*/
+ aside#sidebar{
+     float: right;
+     width: 30%;
+     margin-top: 10px;
+ }
+ /*artilcle*/
+  article#main-col{
+     float: left;
+     width: 60%;
+
+  }
+ footer{
+     padding: 10px;
+     margin-top: 20px;
+     color:#ffffff;
+     text-align: center;
+     background-color: maroon;
+ }
+ .current{
+     color:orangered;
+ }
+ table,th, tr,td{
+    width:100%;
+    background-color:darkslategrey;
+    border:3px solid white;
+    border-collapse:collapse;
+    text-align: center;
+    background-position:center;
+    color:white;
+ }
+ .gallery{
+     font-family: bell mt;
+      background-color:brown;
+       color:red;
+       font-size: 30px;
+    text-align: center;
+    
+}
+#tants{
+    background-color: #f2f2c2;
+}
+#prices{
+    margin-top: 20px;
+    font-family: bell mt;
+  }
+    #prices h3{
+    text-align: center;
+   font-weight: bold; 
+   color:red;
+    font-family:bell mt; }
+    #prices .afford{
+        float:left;
+        text-align: center;
+        width:30%;
+        padding: 10px;
+        font-size: 100%;
+  }
+  #star{
+    margin-top: 20px;
+    font-family: bell mt;
+  }
+    #star h3{
+    text-align: center;
+   font-weight: bold; 
+   color:red;
+    font-family:bell mt; 
+font-size: 140%;}
+    #star .story{
+        float:left;
+        text-align: center;
+        width:30%;
+        padding: 10px;
+        font-size: 110%;
+        height: 90%;
+  }
+  #star h5{
+    font-weight: bold; 
+    color:red;
+     font-family:bell mt; 
+  }
+  .voted {
+    float:left;
+    text-align: center;
+    width:30%;
+    padding: 10px;
+    
+    
+  }
+  .voted h3{
+    color:red;
+    font-family:bell mt; }
+    #staff{
+        margin-top: 20px;
+    font-family: bell mt;
+    }
+    #staff .our{
+        float:left;
+        text-align: center;
+        width:30%;
+        padding: 10px;
+        font-size: 110%;
+        height: 90%;
+    }
+  #staff h3{
+    font-weight: bold; 
+    color:red;
+     font-family:bell mt;
+     text-align: center;
+  }
+  #staff h5{
+    font-weight: bold; 
+    color:red;
+     font-family:bell mt;
+     
+  }
+ #about {min-height: 100px; 
+  background: url('10.jpg') no-repeat 0 -400px;
+      text-align: center;
+      background-size: cover;
+      background-position: center;
+      color:red;
+    font-family: algerian;
+font-size: 40px;}
+  #serv{
+    min-height: 90px; 
+    background: url('img/1.jpg') no-repeat 0 -400px;
+        text-align: center;
+        background-size: cover;
+        background-position: center;
+        color:red;
+      font-family: chiller;
+  font-size: 40px;
+  }
+  #serv p{
+    padding:15px; 
+    color:red;
+    font-family:bell mt;
+    font-size: 30px;
+  }
+  table{
+      text-align: center;
+    color:brown;
+    font-family:bell mt;
+    font-size:20px; 
+  }
+  
+ h3{text-align:center;
+    border-radius:10px; }
+   
